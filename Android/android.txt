@@ -1,0 +1,3 @@
+What is Android content?
+Resource management ( android.content.res ) For retrieving resource data associated with an application, such as strings, drawables, media, and device configuration details. 
+The most important class for accessing this data is Resources .
